@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+!--
 **Otávio Brandão** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: otavioac.brandao@gmail.com  / projt4.0@gmail.com  / +55 31 99546 0797
 - ⚡ Fun fact about me: I'm in love with horses, Cruzeiro and being on the beach lol
 
--->
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projt40&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Projt40-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+--
