@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-!--
-**Otávio Brandão** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+*Otávio Brandão* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projt40&layout=compact&langs_count=7&theme=dracula"/>
 </div>
---
+
