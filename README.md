@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-*Otávio Brandão* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Otávio Brandão**, and I from Software Engineer.
 
-Here are some ideas to get you started:
+And here's a little bit about me:
 
 - 🔭 I’m currently working in an investment fund.
 - 🌱 I’m currently learning  about AWS and AZURE.
